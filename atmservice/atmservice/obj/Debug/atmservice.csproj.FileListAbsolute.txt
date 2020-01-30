@@ -1,0 +1,6 @@
+D:\5l6\29jan2020\atmservice\atmservice\bin\Debug\atmservice.exe.config
+D:\5l6\29jan2020\atmservice\atmservice\obj\Debug\atmservice.csprojResolveAssemblyReference.cache
+D:\5l6\29jan2020\atmservice\atmservice\bin\Debug\atmservice.exe
+D:\5l6\29jan2020\atmservice\atmservice\bin\Debug\atmservice.pdb
+D:\5l6\29jan2020\atmservice\atmservice\obj\Debug\atmservice.exe
+D:\5l6\29jan2020\atmservice\atmservice\obj\Debug\atmservice.pdb
